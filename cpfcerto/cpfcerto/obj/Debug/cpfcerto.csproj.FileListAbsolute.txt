@@ -1,0 +1,8 @@
+C:\Users\luan.caaziani\source\repos\cpfcerto\cpfcerto\bin\Debug\cpfcerto.exe.config
+C:\Users\luan.caaziani\source\repos\cpfcerto\cpfcerto\bin\Debug\cpfcerto.exe
+C:\Users\luan.caaziani\source\repos\cpfcerto\cpfcerto\bin\Debug\cpfcerto.pdb
+C:\Users\luan.caaziani\source\repos\cpfcerto\cpfcerto\obj\Debug\cpfcerto.csproj.AssemblyReference.cache
+C:\Users\luan.caaziani\source\repos\cpfcerto\cpfcerto\obj\Debug\cpfcerto.csproj.SuggestedBindingRedirects.cache
+C:\Users\luan.caaziani\source\repos\cpfcerto\cpfcerto\obj\Debug\cpfcerto.csproj.CoreCompileInputs.cache
+C:\Users\luan.caaziani\source\repos\cpfcerto\cpfcerto\obj\Debug\cpfcerto.exe
+C:\Users\luan.caaziani\source\repos\cpfcerto\cpfcerto\obj\Debug\cpfcerto.pdb

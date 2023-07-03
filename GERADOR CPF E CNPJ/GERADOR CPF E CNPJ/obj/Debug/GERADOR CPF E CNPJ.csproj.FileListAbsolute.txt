@@ -1,0 +1,8 @@
+C:\Users\luan.caaziani\source\repos\GERADOR CPF E CNPJ\GERADOR CPF E CNPJ\obj\Debug\GERADOR CPF E CNPJ.csproj.AssemblyReference.cache
+C:\Users\luan.caaziani\source\repos\GERADOR CPF E CNPJ\GERADOR CPF E CNPJ\obj\Debug\GERADOR CPF E CNPJ.csproj.SuggestedBindingRedirects.cache
+C:\Users\luan.caaziani\source\repos\GERADOR CPF E CNPJ\GERADOR CPF E CNPJ\obj\Debug\GERADOR CPF E CNPJ.csproj.CoreCompileInputs.cache
+C:\Users\luan.caaziani\source\repos\GERADOR CPF E CNPJ\GERADOR CPF E CNPJ\bin\Debug\GERADOR CPF E CNPJ.exe.config
+C:\Users\luan.caaziani\source\repos\GERADOR CPF E CNPJ\GERADOR CPF E CNPJ\bin\Debug\GERADOR CPF E CNPJ.exe
+C:\Users\luan.caaziani\source\repos\GERADOR CPF E CNPJ\GERADOR CPF E CNPJ\bin\Debug\GERADOR CPF E CNPJ.pdb
+C:\Users\luan.caaziani\source\repos\GERADOR CPF E CNPJ\GERADOR CPF E CNPJ\obj\Debug\GERADOR CPF E CNPJ.exe
+C:\Users\luan.caaziani\source\repos\GERADOR CPF E CNPJ\GERADOR CPF E CNPJ\obj\Debug\GERADOR CPF E CNPJ.pdb

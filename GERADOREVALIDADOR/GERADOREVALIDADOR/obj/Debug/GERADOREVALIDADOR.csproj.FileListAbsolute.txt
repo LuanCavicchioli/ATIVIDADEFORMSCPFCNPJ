@@ -1,0 +1,33 @@
+C:\Users\User\source\repos\GERADOREVALIDADOR\GERADOREVALIDADOR\bin\Debug\GERADOREVALIDADOR.exe.config
+C:\Users\User\source\repos\GERADOREVALIDADOR\GERADOREVALIDADOR\bin\Debug\GERADOREVALIDADOR.exe
+C:\Users\User\source\repos\GERADOREVALIDADOR\GERADOREVALIDADOR\bin\Debug\GERADOREVALIDADOR.pdb
+C:\Users\User\source\repos\GERADOREVALIDADOR\GERADOREVALIDADOR\obj\Debug\GERADOREVALIDADOR.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\GERADOREVALIDADOR\GERADOREVALIDADOR\obj\Debug\GERADOREVALIDADOR.Form1.resources
+C:\Users\User\source\repos\GERADOREVALIDADOR\GERADOREVALIDADOR\obj\Debug\GERADOREVALIDADOR.Properties.Resources.resources
+C:\Users\User\source\repos\GERADOREVALIDADOR\GERADOREVALIDADOR\obj\Debug\GERADOREVALIDADOR.csproj.GenerateResource.cache
+C:\Users\User\source\repos\GERADOREVALIDADOR\GERADOREVALIDADOR\obj\Debug\GERADOREVALIDADOR.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GERADOREVALIDADOR\GERADOREVALIDADOR\obj\Debug\GERADOREVALIDADOR.exe
+C:\Users\User\source\repos\GERADOREVALIDADOR\GERADOREVALIDADOR\obj\Debug\GERADOREVALIDADOR.pdb
+C:\Users\User\source\repos\GERADOREVALIDADOR\GERADOREVALIDADOR\obj\Debug\GERADOREVALIDADOR.Form2.resources
+C:\Users\luan.caaziani\OneDrive - SENAC - SP\Imagens\LOCAL\GERADOREVALIDADOR\GERADOREVALIDADOR\bin\Debug\GERADOREVALIDADOR.exe.config
+C:\Users\luan.caaziani\OneDrive - SENAC - SP\Imagens\LOCAL\GERADOREVALIDADOR\GERADOREVALIDADOR\bin\Debug\GERADOREVALIDADOR.exe
+C:\Users\luan.caaziani\OneDrive - SENAC - SP\Imagens\LOCAL\GERADOREVALIDADOR\GERADOREVALIDADOR\bin\Debug\GERADOREVALIDADOR.pdb
+C:\Users\luan.caaziani\OneDrive - SENAC - SP\Imagens\LOCAL\GERADOREVALIDADOR\GERADOREVALIDADOR\obj\Debug\GERADOREVALIDADOR.csproj.AssemblyReference.cache
+C:\Users\luan.caaziani\OneDrive - SENAC - SP\Imagens\LOCAL\GERADOREVALIDADOR\GERADOREVALIDADOR\obj\Debug\GERADOREVALIDADOR.Form1.resources
+C:\Users\luan.caaziani\OneDrive - SENAC - SP\Imagens\LOCAL\GERADOREVALIDADOR\GERADOREVALIDADOR\obj\Debug\GERADOREVALIDADOR.Form2.resources
+C:\Users\luan.caaziani\OneDrive - SENAC - SP\Imagens\LOCAL\GERADOREVALIDADOR\GERADOREVALIDADOR\obj\Debug\GERADOREVALIDADOR.Properties.Resources.resources
+C:\Users\luan.caaziani\OneDrive - SENAC - SP\Imagens\LOCAL\GERADOREVALIDADOR\GERADOREVALIDADOR\obj\Debug\GERADOREVALIDADOR.csproj.GenerateResource.cache
+C:\Users\luan.caaziani\OneDrive - SENAC - SP\Imagens\LOCAL\GERADOREVALIDADOR\GERADOREVALIDADOR\obj\Debug\GERADOREVALIDADOR.csproj.CoreCompileInputs.cache
+C:\Users\luan.caaziani\OneDrive - SENAC - SP\Imagens\LOCAL\GERADOREVALIDADOR\GERADOREVALIDADOR\obj\Debug\GERADOREVALIDADOR.exe
+C:\Users\luan.caaziani\OneDrive - SENAC - SP\Imagens\LOCAL\GERADOREVALIDADOR\GERADOREVALIDADOR\obj\Debug\GERADOREVALIDADOR.pdb
+C:\Users\luan.caaziani\source\repos\GERADOREVALIDADOR\GERADOREVALIDADOR\bin\Debug\GERADOREVALIDADOR.exe.config
+C:\Users\luan.caaziani\source\repos\GERADOREVALIDADOR\GERADOREVALIDADOR\bin\Debug\GERADOREVALIDADOR.exe
+C:\Users\luan.caaziani\source\repos\GERADOREVALIDADOR\GERADOREVALIDADOR\bin\Debug\GERADOREVALIDADOR.pdb
+C:\Users\luan.caaziani\source\repos\GERADOREVALIDADOR\GERADOREVALIDADOR\obj\Debug\GERADOREVALIDADOR.csproj.AssemblyReference.cache
+C:\Users\luan.caaziani\source\repos\GERADOREVALIDADOR\GERADOREVALIDADOR\obj\Debug\GERADOREVALIDADOR.Form1.resources
+C:\Users\luan.caaziani\source\repos\GERADOREVALIDADOR\GERADOREVALIDADOR\obj\Debug\GERADOREVALIDADOR.Form2.resources
+C:\Users\luan.caaziani\source\repos\GERADOREVALIDADOR\GERADOREVALIDADOR\obj\Debug\GERADOREVALIDADOR.Properties.Resources.resources
+C:\Users\luan.caaziani\source\repos\GERADOREVALIDADOR\GERADOREVALIDADOR\obj\Debug\GERADOREVALIDADOR.csproj.GenerateResource.cache
+C:\Users\luan.caaziani\source\repos\GERADOREVALIDADOR\GERADOREVALIDADOR\obj\Debug\GERADOREVALIDADOR.csproj.CoreCompileInputs.cache
+C:\Users\luan.caaziani\source\repos\GERADOREVALIDADOR\GERADOREVALIDADOR\obj\Debug\GERADOREVALIDADOR.exe
+C:\Users\luan.caaziani\source\repos\GERADOREVALIDADOR\GERADOREVALIDADOR\obj\Debug\GERADOREVALIDADOR.pdb

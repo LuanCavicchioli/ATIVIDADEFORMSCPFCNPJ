@@ -1,0 +1,8 @@
+C:\Users\luan.caaziani\source\repos\CNPJCORRETO\CNPJCORRETO\bin\Debug\CNPJCORRETO.exe.config
+C:\Users\luan.caaziani\source\repos\CNPJCORRETO\CNPJCORRETO\bin\Debug\CNPJCORRETO.exe
+C:\Users\luan.caaziani\source\repos\CNPJCORRETO\CNPJCORRETO\bin\Debug\CNPJCORRETO.pdb
+C:\Users\luan.caaziani\source\repos\CNPJCORRETO\CNPJCORRETO\obj\Debug\CNPJCORRETO.csproj.AssemblyReference.cache
+C:\Users\luan.caaziani\source\repos\CNPJCORRETO\CNPJCORRETO\obj\Debug\CNPJCORRETO.csproj.SuggestedBindingRedirects.cache
+C:\Users\luan.caaziani\source\repos\CNPJCORRETO\CNPJCORRETO\obj\Debug\CNPJCORRETO.csproj.CoreCompileInputs.cache
+C:\Users\luan.caaziani\source\repos\CNPJCORRETO\CNPJCORRETO\obj\Debug\CNPJCORRETO.exe
+C:\Users\luan.caaziani\source\repos\CNPJCORRETO\CNPJCORRETO\obj\Debug\CNPJCORRETO.pdb
